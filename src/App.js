@@ -3,6 +3,7 @@ import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import './App.css';
 import Main from "./components/main";
 import { Link} from 'react-router-dom';
+import Footer from './components/footer';
 function App() {
   return (
     <div className="demo-big-content">
@@ -26,9 +27,10 @@ function App() {
         <Content>
             <div className="page-content" />
             <Main>
-
             </Main>
+            
         </Content>
+        <Footer/>
     </Layout>
 </div>
   );

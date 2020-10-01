@@ -65,3 +65,22 @@ border-radius: 25px;
 .projects-grid {
 display: flex;
 }
+
+/* Footer CSS */
+
+.img-link {
+  text-align: center;
+}
+
+.social-links-footer i {
+  color:  #05668dff;
+  font-size: 50px;
+  padding: 8px;
+}
+
+.footer-info {
+  font-size: 24px;
+  color: #05668dff;
+  font-weight: bold;
+  text-align: center;
+}

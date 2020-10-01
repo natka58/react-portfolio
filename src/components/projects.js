@@ -22,7 +22,7 @@ if(this.state.activeTab === 0){
                 {/* project 1 Run Buddy */}
      
     <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
-        <CardTitle style={{color: '#185a9d'}} >Run Buddy</CardTitle>
+        <CardTitle style={{color:  '#05668dff'}} >Run Buddy</CardTitle>
         <CardImg src={Buddy} style={{color: '#f0f8ff', height: '175px' }}  />
          <CardText>
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -31,7 +31,7 @@ if(this.state.activeTab === 0){
               <Button colored href="https://github.com/natka58/run-buddy">GitHub</Button>
               <Button colored href="https://natka58.github.io/run-buddy/">Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#185a9d'}}>
+            <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>    
@@ -46,7 +46,7 @@ if(this.state.activeTab === 0){
   {/* project 2 Trakster */}
 
     <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
-        <CardTitle style={{color: '#185a9d'}} >Trakster</CardTitle>
+        <CardTitle style={{color: ' #05668dff'}} >Trakster</CardTitle>
         <CardImg src={Trakster} style={{color: '#f0f8ff', height: '175px' }}  />
          <CardText>
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -55,7 +55,7 @@ if(this.state.activeTab === 0){
               <Button colored href="https://github.com/pv95335/trakster">GitHub</Button>
               <Button colored href="https://project-trakster.herokuapp.com/">Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#185a9d'}}>
+            <CardMenu style={{color: ' #05668dff'}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -68,7 +68,7 @@ if(this.state.activeTab === 0){
  {/* project 3 Covie Search */}
          
  <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
-        <CardTitle style={{color: '#185a9d'}} >Covie Search</CardTitle>
+        <CardTitle style={{color: ' #05668dff'}} >Covie Search</CardTitle>
         <CardImg src={Covie} style={{color: '#f0f8ff', height: '175px' }}  />
          <CardText>
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -77,7 +77,7 @@ if(this.state.activeTab === 0){
               <Button colored href="https://github.com/jaaybe/covidsearch">GitHub</Button>
               <Button colored href="https://jaaybe.github.io/covidsearch/">Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#185a9d'}}>
+            <CardMenu style={{color: ' #05668dff'}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -89,7 +89,7 @@ if(this.state.activeTab === 0){
 {/* project 4 Tech Blog */}
           
 <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
-        <CardTitle style={{color: '#185a9d'}} >Tech Blog</CardTitle>
+        <CardTitle style={{color: ' #05668dff'}} >Tech Blog</CardTitle>
         <CardImg src={Tech} style={{color: '#f0f8ff', height: '175px' }}  />
          <CardText>
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -98,7 +98,7 @@ if(this.state.activeTab === 0){
               <Button colored href="https://github.com/natka58/Tech-Blog">GitHub</Button>
               <Button colored href="https://vast-tor-45679.herokuapp.com/">Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#185a9d'}}>
+            <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -110,7 +110,7 @@ if(this.state.activeTab === 0){
  {/* project 5 Note Taker */}
 
  <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
-        <CardTitle style={{color: '#185a9d'}} >Note Taker</CardTitle>
+        <CardTitle style={{color: ' #05668dff'}} >Note Taker</CardTitle>
         <CardImg src={Note} style={{color: '#f0f8ff', height: '175px' }}  />
          <CardText>
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -119,7 +119,7 @@ if(this.state.activeTab === 0){
               <Button colored href="https://github.com/natka58/note-taker">GitHub</Button>
               <Button colored href="https://floating-gorge-69732.herokuapp.com">Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#185a9d'}}>
+            <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -132,7 +132,7 @@ if(this.state.activeTab === 0){
           {/* project 6 Read ME */}
 
           <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
-        <CardTitle style={{color: '#185a9d'}} >ReadMe Generator</CardTitle>
+        <CardTitle style={{color: '#05668dff'}} >ReadMe Generator</CardTitle>
         <CardImg src={Read} style={{color: '#f0f8ff', height: '175px' }}  />
          <CardText>
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -141,7 +141,7 @@ if(this.state.activeTab === 0){
               <Button colored href="https://github.com/natka58/note-taker">GitHub</Button>
               
             </CardActions>
-            <CardMenu style={{color: '#185a9d'}}>
+            <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
