@@ -28,8 +28,8 @@ if(this.state.activeTab === 0){
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/natka58/run-buddy">GitHub</Button>
-              <Button colored href="https://natka58.github.io/run-buddy/">Live Demo</Button>
+              <Button colored href="https://github.com/natka58/run-buddy" target="_blank">GitHub</Button>
+              <Button colored href="https://natka58.github.io/run-buddy/" target="_blank">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
@@ -52,8 +52,8 @@ if(this.state.activeTab === 0){
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/pv95335/trakster">GitHub</Button>
-              <Button colored href="https://project-trakster.herokuapp.com/">Live Demo</Button>
+              <Button colored href="https://github.com/pv95335/trakster" target="_blank">GitHub</Button>
+              <Button colored href="https://project-trakster.herokuapp.com/" target="_blank">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: ' #05668dff'}}>
               <IconButton name="share" />
@@ -74,8 +74,8 @@ if(this.state.activeTab === 0){
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/jaaybe/covidsearch">GitHub</Button>
-              <Button colored href="https://jaaybe.github.io/covidsearch/">Live Demo</Button>
+              <Button colored href="https://github.com/jaaybe/covidsearch" target="_blank">GitHub</Button>
+              <Button colored href="https://jaaybe.github.io/covidsearch/" target="_blank">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: ' #05668dff'}}>
               <IconButton name="share" />
@@ -95,8 +95,8 @@ if(this.state.activeTab === 0){
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/natka58/Tech-Blog">GitHub</Button>
-              <Button colored href="https://vast-tor-45679.herokuapp.com/">Live Demo</Button>
+              <Button colored href="https://github.com/natka58/Tech-Blog" target="_blank">GitHub</Button>
+              <Button colored href="https://vast-tor-45679.herokuapp.com/" target="_blank">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
@@ -116,8 +116,8 @@ if(this.state.activeTab === 0){
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/natka58/note-taker">GitHub</Button>
-              <Button colored href="https://floating-gorge-69732.herokuapp.com">Live Demo</Button>
+              <Button colored href="https://github.com/natka58/note-taker" target="_blank">GitHub</Button>
+              <Button colored href="https://floating-gorge-69732.herokuapp.com" target="_blank">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#05668dff'}}>
               <IconButton name="share" />
@@ -138,7 +138,7 @@ if(this.state.activeTab === 0){
          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/natka58/note-taker">GitHub</Button>
+              <Button colored href="https://github.com/natka58/note-taker" target="_blank">GitHub</Button>
               
             </CardActions>
             <CardMenu style={{color: '#05668dff'}}>

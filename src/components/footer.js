@@ -16,7 +16,7 @@ function Footer() {
           </a> 
           </div>
             <p className='footer-info'>
-                &copy; N. Teaca   <a href="https://github.com/natka58" alt="React"/>
+                &copy; N. Teaca<a href="https://github.com/natka58" />
             </p>
            
         </div>
