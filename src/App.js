@@ -10,8 +10,7 @@ function App() {
     <Layout>
     <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">N. Teaca</Link>} scroll>
             <Navigation>
-                
-                <Link to="/projects">Projects</Link>
+                 <Link to="/projects">Projects</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
