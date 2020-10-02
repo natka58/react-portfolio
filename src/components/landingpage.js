@@ -13,7 +13,7 @@ class Landing extends Component {
     
      {/* banner */}
      <div className="banner-text">
-         <h1>Full Stack Web Developer</h1>
+         <h1>Web Developer</h1>
   <h2>Hello and welcome to my React portfolio<br/>
     I'm a full stack web development student, learning the exciting world of coding. </h2>
     {/* line break */}
