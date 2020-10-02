@@ -26,9 +26,9 @@
   Example and instrution of use: none
 
   ## Demo
-  ![Screenshot](src/assets/images/demo.jpg) /
+  ![Screenshot](src/assets/images/demo.jpg) 
 
-  [GitHub](https://github.com/natka58/react-portfolio)  /
+  [GitHub](https://github.com/natka58/react-portfolio)  
 
   [Live URL](https://natka58.github.io/react-portfolio/)
 
