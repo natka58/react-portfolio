@@ -1,6 +1,8 @@
-import React from 'react';
 
-function Footer() {
+import React, { Component } from 'react';
+
+class Footer extends Component {
+  render() {
     return (
         <div className='img-link'>
         <div className="social-links-footer" id="footer">
@@ -15,12 +17,10 @@ function Footer() {
             <i className="fa fa-facebook-square" aria-hidden="true" />
           </a> 
           </div>
-            <p className='footer-info'>
-                &copy; N. Teaca<a href="https://github.com/natka58" />
-            </p>
            
         </div>
     )
+}
 }
 
 export default Footer;
