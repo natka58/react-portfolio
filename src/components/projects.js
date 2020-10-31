@@ -6,6 +6,7 @@ import Covie from '../assets/images/covie.png';
 import Tech from '../assets/images/tech.jpg';
 import Note from '../assets/images/note.jpg';
 import Read from '../assets/images/read.jpg';
+import Mern from '../assets/images/MCrafts.png';
 import { CardImg } from 'reactstrap';
   
 class Projects extends Component {
@@ -147,7 +148,30 @@ if(this.state.activeTab === 0){
           </Card>
             </div> 
         )
-    }
+    } else if(this.state.activeTab === 6) {
+      return (
+          <div className="projects-grid">  
+
+            {/* project 7 Michelle's Crafts */}
+
+            <Card shadow={5} style={{minWidth: '550', margin: 'auto'}}>
+        <CardTitle style={{color: '#05668dff'}} >MERN E-commerce </CardTitle>
+        <CardImg src={Mern} style={{color: '#f0f8ff', height: '175px' }}  />
+         <CardText>
+         MERN stack single-page e-commerce application with complete checkout of Paypal or credit cards. With both Admin and User log in options. Product posts with localstorage image upload 
+            </CardText>
+            <CardActions border>
+              <Button colored href="https://github.com/natka58/maxie" target="_blank">GitHub</Button>
+              <Button colored href="https://mighty-sands-90705.herokuapp.com/" target="_blank">Heroku</Button>
+            </CardActions>
+            <CardMenu style={{color: '#05668dff'}}>
+              <IconButton name="share" />
+            </CardMenu>
+          </Card>
+            </div> 
+        )
+    }   
+
 }
 
     render() {
@@ -160,6 +184,7 @@ if(this.state.activeTab === 0){
     <Tab>MVC</Tab>
     <Tab>Express.js</Tab>
     <Tab>Node.js</Tab>
+    <Tab>MERN SPA</Tab>
      </Tabs>
 
      
